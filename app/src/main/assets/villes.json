@@ -1,0 +1,86 @@
+[
+  {
+    "id":"0",
+    "nom":"Oujda",
+    "principalPic":"1",
+    "picture1":10,
+    "picture2":11,
+    "picture3":12,
+    "description":"Située dans l'Oriental, qui correspond à la région au nord-est du royaume, Oujda est la seule ville marocaine à pouvoir, au cours d'une seule et mêmeournée, offrir au visiteur qui a pris le soin de louer au préalable une voiture à Oujda de se promener à la montagne et de randonner au nord de la ville sur les monts des Béni-Snassen, de réaliser un circuit dans le désert ou de se prélasser sur la côte méditerraéenne, la mer est distante d'à peine une soixantaine de kilomètres.La ville se situe également à 100 kilomètres de Nador et à 115 kilomètres de Mellilia. Une autoroute flambant neuve, relie aussi depuis la fin juillet 2011 Oujda à Fès en à peine 2 heures et 40 minutes de voiture.Aujourd'hui, la ville et ses environs donnent un aperçu très concret des charmes de la vie dans une oasis. Et qui dit oasis, dit eau. En grande partie grâce à ses massifs montagneux, Oujda et ses villes voisines sont alimentées par des sources, certaines d'eau chaude. Un liquide si rare ailleurs qui a permis ici d'élever une importante végétation et de créer d'agréables zones ombragées. Mais la Cité marocaine est également un haut lieu culturel avec, notamment, un festival international de raï qui se déroule chaque année en juillet.",
+    "recommendation":[
+      {
+        "place":"> Medina"
+      },
+      {
+        "place":"> Bab ELGHARBI"
+      },
+      {
+        "place":"> Dar Essabti"
+      },
+      {
+        "place":"> Sidi Yahya"
+      }
+    ]
+  },
+  {
+    "id":"1",
+    "nom":"Marrakech",
+    "principalPic":"2",
+    "picture1":"20",
+    "picture2":"21",
+    "picture3":"22",
+    "description":"Marrakech, ancienne cité impériale de l'ouest du Maroc, et un centre économique majeur abritant des mosquées, des palais et des jardins. La médina est une cité médiévale fortifiée et densément peuplée datant de l'Empire berbère, avec des allées entremêlées tel un labyrinthe, où les souks (marchés) animés vendent des étoffes, des poteries et des bijoux traditionnels. Symbole de la ville, le minaret de la mosquée maure de Koutoubia du XIIe siècle est visible à des kilomètres.",
+    "recommendation":[
+      {
+        "place":"> La place Djema El Fna"
+      },
+      {
+        "place":"> Les souks de Marrakech"
+      },
+      {
+        "place":"> Médina de Marrakech"
+      },
+      {
+        "place":"> La Koutoubia"
+      },
+      {
+        "place":"> Le musée Dar Si Said"
+      },
+      {
+        "place":"> Les souks de Marrakech"
+      },
+      {
+        "place":"> Les remparts - Marrakech"
+      }
+    ]
+  },
+  {
+    "id":"2",
+    "nom":"Rabat",
+    "principalPic":"3",
+    "picture1":"30",
+    "picture2":"31",
+    "picture3":"",
+    "description":"Rabat, la capitale du Maroc, est bâtie sur les rives du fleuve Bouregreg et de l'océan Atlantique. Elle est connue pour ses sites d'intérêt, qui illustrent tant le patrimoine islamique que colonial français, notamment la kasbah des Oudayas. Ce fort royal de l'époque berbère est entouré par des jardins formels de style français et surplombe l'océan. L'emblématique tour Hassan de la ville, un minaret du XIIe siècle, domine les vestiges d'une mosquée.",
+    "recommendation":[
+      {
+        "place":"> Mausolée de Mohammed V"
+      },
+      {
+        "place":"> Kasbah des Oudaias"
+      },
+      {
+        "place":"> Chella"
+      },
+      {
+        "place":"> Jardin Zoologique de Rabat"
+      },
+      {
+        "place":"> Musée Mohammed VI d'Art Moderne et Contemporain"
+      },
+      {
+        "place":"> Royal Palace of Rabat"
+      }
+    ]
+  }
+]
